@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.zerock.mapper.EventMapper">
+
+	<resultMap type="org.zerock.domain.EventVO" id="eventMap">
+    <id property="eno" column="EVENT_NO"/>
+    <result property="eTitle" column="EVENT_TITLE"/>
+    <result property="eCategory" column="EVENT_CATEGORY"/>
+    <result property="eWriter" column="EVENT_WRITER"/>
+    <result property="eContent" column="EVENT_CONTENT"/>
+    <result property="eRegdate" column="EVENT_REGDATE"/>
+    <result property="eHeart" column="EVENT_HEART"/> 
+  </resultMap>
+	
+	<insert id="insert">
+		insert into event (EVENT_NO, EVENT_TITLE, EVENT_CATEGORY, EVENT_WRITER, EVENT_CONTENT, EVENT_REGDATE, EVENT_HEART)
+		values (seq_event.nextval, #{eTitle}, #{eCategory}, #{eWriter}, #{eContent}, sysdate, DEFAULT)
+	</insert>
+
+</mapper>
