@@ -1,0 +1,421 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 2041px;
+  position: relative;
+}
+.image-2 {
+  width: 60px;
+  height: 56px;
+  position: absolute;
+  left: 262px;
+  top: 259px;
+  object-fit: cover;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 341px;
+  top: 273px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 584px;
+  top: 272px;
+  width: 45px;
+  height: 29px;
+}
+.rectangle-2 {
+  background: #2cadd3;
+  width: 1920px;
+  height: 34px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 1120px;
+  top: 272px;
+  width: 100px;
+  height: 29px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 1317px;
+  top: 272px;
+  width: 67px;
+  height: 29px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 923px;
+  top: 272px;
+  width: 100px;
+  height: 29px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 726px;
+  top: 272px;
+  width: 100px;
+  height: 29px;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #a3a3a3;
+  border-width: 1px 0 0 0;
+  width: 68px;
+  height: 0px;
+  position: absolute;
+  left: 499px;
+  top: 259px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.div8 {
+  color: #424141;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1414px;
+  top: 41px;
+}
+.div9 {
+  color: #424141;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1489px;
+  top: 41px;
+}
+.group-112 {
+  width: 1504px;
+  height: 1394px;
+  position: static;
+}
+.group-75 {
+  width: 1504px;
+  height: 1394px;
+  position: absolute;
+  left: 208px;
+  top: 482px;
+  overflow: visible;
+}
+.group-121 {
+  width: 1235px;
+  height: 1046px;
+  position: static;
+}
+.group-122 {
+  width: 631px;
+  height: 64px;
+  position: static;
+}
+.rectangle-6 {
+  border-radius: 20px;         /* 테두리 곡선 */
+  border: 1px solid #5a5a5a;   /* 테두리 두께와 색상 */
+  width: 631px;                /* 가로 크기 */
+  height: 64px;                /* 세로 크기 */
+  position: absolute;
+  left: 378px;
+  top: 540px;
+  overflow: visible;
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+
+
+.div10 {
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 413px;
+  top: 560px;
+  width: 264px;
+  height: 24px;
+}
+.group-123 {
+  width: 1235px;
+  height: 749px;
+  position: static;
+}
+.rectangle-62 {
+  border-radius: 0px;
+  width: 1235px;
+  height: 600px;
+  position: absolute;
+  left: 338px;
+  top: 837px;
+  overflow: visible;
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 378px;
+  top: 871px;
+  
+  border-radius: 20px;         /* 테두리 곡선 */
+  border: 1px solid #5a5a5a;   /* 테두리 두께와 색상 */
+
+}
+.div11 {
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 378px;
+  top: 871px;
+  width: 516px;
+  height: 24px;
+}
+.div12 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 721px;
+  top: 1789px;
+  width: 79px;
+  height: 24px;
+}
+.div13 {
+  position: absolute;
+  left: 386px;
+  top: 661px;
+  
+  border-radius: 20px;         /* 테두리 곡선 */
+  border: 1px solid #5a5a5a;   /* 테두리 두께와 색상 */
+  width: 631px;                /* 가로 크기 */
+  height: 64px;                /* 세로 크기 */
+  position: absolute;
+  left: 378px;
+  overflow: visible;
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+.group-113 {
+  width: 814px;
+  height: 58.68px;
+  position: static;
+}
+.rectangle-3 {
+  border-radius: 0px;
+  width: 814px;
+  height: 58.68px;
+  position: absolute;
+  left: 591px;
+  top: 145.32px;
+  overflow: visible;
+}
+.div14 {
+  width: 39px;
+  height: 44.81px;
+  position: absolute;
+  left: 1343px;
+  top: 151.72px;
+  object-fit: cover;
+}
+.div15 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 770px;
+  top: 160.12px;
+  width: 240px;
+  height: 29.87px;
+}
+.line-1 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #a3a3a3;
+  border-width: 1px 0 0 0;
+  width: 1920px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 328px;
+  transform-origin: 0 0;
+  transform: rotate(0.04deg) scale(1, 1);
+}
+.div16 {
+  color: #424141;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  position: absolute;
+  left: 283px;
+  top: 556px;
+  width: 69px;
+  height: 29px;
+}
+.div17 {
+  color: #424141;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  position: absolute;
+  left: 251px;
+  top: 656px;
+  width: 90px;
+  height: 29px;
+}
+.group-120 {
+  width: 388.76px;
+  height: 64px;
+  position: static;
+}
+.rectangle-63 {
+  border-radius: 0px;
+  width: 388.76px;
+  height: 64px;
+  position: absolute;
+  left: 1184px;
+  top: 539px;
+  overflow: visible;
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 1275px;
+  top: 559px;
+  width: 228px;
+  height: 24px;
+  border-radius: 0px;
+  width: 388.76px;
+  height: 64px;
+  position: absolute;
+  left: 1184px;
+  top: 539px;
+  overflow: visible;
+}
+.rectangle-7 {
+  border-radius: 0px;
+  width: 388.76px;
+  height: 64px;
+  position: absolute;
+  left: 1184px;
+  top: 539px;
+  overflow: visible;
+}
+.div18 {
+  color: #a7a7a7;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 1275px;
+  top: 559px;
+  width: 228px;
+  height: 24px;
+}
+.div19 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 425px;
+  top: 1719px;
+  width: 118px;
+  height: 24px;
+}
+.group-125 {
+  width: 208px;
+  height: 56px;
+  position: static;
+}
+.group-126 {
+  width: 208px;
+  height: 56px;
+  position: static;
+}
+.rectangle-64 {
+  background: #79b8cb;
+  border-radius: 15px;
+  width: 208px;
+  height: 56px;
+  position: absolute;
+  left: 1489px;
+  top: 412px;
+  color: #ffffff;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+  text-align:center;
+}
+.div20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+  position: absolute;
+  left: 1568px;
+  top: 425px;
+  width: 53px;
+  height: 29px;
+}

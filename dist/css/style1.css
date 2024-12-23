@@ -1,0 +1,451 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1852px;
+  position: relative;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 613px;
+  top: 1452px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 844px;
+  top: 1452px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 1075px;
+  top: 1452px;
+}
+.group-52 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-3 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 683px;
+  overflow: visible;
+}
+.div5 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 581px;
+  top: 713px;
+  width: 331px;
+  height: 25px;
+}
+.group-41 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 809px;
+  overflow: visible;
+}
+.div6 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 839px;
+  width: 347px;
+  height: 35px;
+}
+.group-53 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-33 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 934px;
+  overflow: visible;
+}
+.div7 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 964px;
+  width: 567px;
+  height: 35px;
+}
+.group-54 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-34 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 1055px;
+  overflow: visible;
+}
+.div8 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 1085px;
+  width: 567px;
+  height: 35px;
+}
+.group-55 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-35 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 1176px;
+  overflow: visible;
+}
+.mokpo-mokpo-ac-kr {
+  color: #a3a3a3;
+  text-align: left;
+  position: absolute;
+  left: 589px;
+  top: 1206px;
+  width: 331px;
+  height: 25px;
+}
+.mokpo-mokpo-ac-kr-span {
+  color: #a3a3a3;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+}
+.mokpo-mokpo-ac-kr-span2 {
+  color: #a3a3a3;
+  font-family: "Alatsi-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.group-56 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-36 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 1302px;
+  overflow: visible;
+}
+.div9 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 1332px;
+  width: 347px;
+  height: 35px;
+}
+.line-23 {
+  margin-top: -5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 5px 0 0 0;
+  width: 1388px;
+  height: 0px;
+  position: absolute;
+  left: 266px;
+  top: 630px;
+}
+.div10 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 708px;
+}
+.div-10-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-10-span2 {
+  color: #ff0000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div11 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 1080px;
+}
+.div-11-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-11-span2 {
+  color: #ff0000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div12 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 834px;
+}
+.div-12-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-12-span2 {
+  color: #ff0000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div13 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 960px;
+}
+.div-13-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-13-span2 {
+  color: #ff0000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div14 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 1206px;
+}
+.div-14-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-14-span2 {
+  color: #ff0303;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div15 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 1448px;
+}
+.div16 {
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 302px;
+  top: 1332px;
+}
+.div-16-span {
+  color: #000000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.div-16-span2 {
+  color: #ff0000;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+}
+.ellipse-1 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #aaaaaa;
+  border-width: 3px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 554px;
+  top: 1452px;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #aaaaaa;
+  border-width: 3px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 785px;
+  top: 1452px;
+}
+.ellipse-3 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #aaaaaa;
+  border-width: 3px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 1016px;
+  top: 1452px;
+}
+.div17 {
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1499px;
+  top: 582px;
+}
+.div-17-span {
+  color: #ff0202;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.div-17-span2 {
+  color: #424141;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.div18 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 904px;
+  top: 449px;
+}
+.group-37 {
+  width: 1007px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-37 {
+  border-radius: 0px;
+  width: 1007px;
+  height: 91.83px;
+  position: absolute;
+  left: 456px;
+  top: 1605px;
+  overflow: visible;
+}
+.div19 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 898.88px;
+  top: 1630px;
+  width: 159.59px;
+}
+.rectangle-38 {
+  width: 1920px;
+  height: 34px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

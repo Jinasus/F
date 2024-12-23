@@ -1,0 +1,140 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+}
+.rectangle-2 {
+  width: 1920px;
+  height: 34px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-71 {
+  width: 814px;
+  height: 608.83px;
+  position: static;
+}
+.div2 {
+  color: #424141;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1083px;
+  top: 568px;
+}
+.div3 {
+  color: #424141;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1223px;
+  top: 568px;
+}
+.group-35 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-3 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 348px;
+  overflow: visible;
+}
+.div4 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 378px;
+  width: 331px;
+  height: 25px;
+}
+.group-36 {
+  width: 814px;
+  height: 91.83px;
+  position: static;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 458px;
+  overflow: visible;
+}
+.div5 {
+  color: #a3a3a3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 29px;
+  font-weight: 800;
+  position: absolute;
+  left: 580px;
+  top: 488px;
+  width: 347px;
+  height: 35px;
+}
+.group-70 {
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 639px;
+  overflow: visible;
+}
+.group-38 {
+  width: 814px;
+  height: 91.83px;
+  position: absolute;
+  left: 553px;
+  top: 753px;
+  overflow: visible;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 904px;
+  top: 236px;
+}
+.div7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 911px;
+  top: 665px;
+}
+.div8 {
+  color: #2cadd3;
+  text-align: left;
+  font-family: "AdventPro-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: 895px;
+  top: 779px;
+}
